@@ -17,7 +17,7 @@ SEED value from its family codes
 The codes should produced significant possible results to
 immediate variants of CRYPTO family Malware.
 
-CRYPTO DGA is generated against date input. CRYPTODGA generates about
+CRYPTODGA is generated against date input. CRYPTODGA generates about
 10000 domain per day. Using cryptodga, a specific domains list can
 be produced on targeted date.
 
@@ -57,7 +57,7 @@ INSTALLATION
         %> make
 
     5. After a successful compilation, a TIG file will be created.
-       To invoke GOZDGA application:
+       To invoke CRYPTODGA application:
 
         %> cd /home/user/project/CRYPTODGA
         %> ./cryptodga
